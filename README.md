@@ -11,3 +11,6 @@ press O --> draw a circle : left click mouse (center point) and drag the radius 
 press C --> clear all your drawings  
 press R --> recover all your precious deleted drawings  
 press Q --> quit  
+  
+You can use this program to draw images, for example:  
+![Whale](https://github.com/Sean0206/A-Mini-Painter/blob/main/IMG/whale.png)
